@@ -339,12 +339,6 @@ Some datasets and prompt implementations are modified from [chain-of-thought-hub
 ## 🖊️ Citation
 
 ```bibtex
-@misc{2023opencompass,
-    title={OpenCompass: A Universal Evaluation Platform for Foundation Models},
-    author={OpenCompass Contributors},
-    howpublished = {\url{https://github.com/InternLM/OpenCompass}},
-    year={2023}
-}
-```
 
-<p align="right"><a href="#top">🔝Back to top</a></p>
+
+fork from : https://github.com/InternLM/opencompass
